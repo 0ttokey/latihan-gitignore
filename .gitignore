@@ -1,0 +1,6 @@
+# untuk menambahkan file yang tidak ingin masuk ke staging area
+config.txt
+# untuk menambahkan folder yang tidak ingin masuk ke staging area
+data/
+# untuk menambahkan ekstensi file yang tidak ingin masuk ke staging area
+*.exe
